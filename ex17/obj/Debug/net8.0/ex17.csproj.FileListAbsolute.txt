@@ -1,0 +1,14 @@
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.AssemblyInfoInputs.cache
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.AssemblyInfo.cs
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.csproj.CoreCompileInputs.cache
+C:\Users\PC-2\source\repos\ex17\ex17\bin\Debug\net8.0\ex17.exe
+C:\Users\PC-2\source\repos\ex17\ex17\bin\Debug\net8.0\ex17.deps.json
+C:\Users\PC-2\source\repos\ex17\ex17\bin\Debug\net8.0\ex17.runtimeconfig.json
+C:\Users\PC-2\source\repos\ex17\ex17\bin\Debug\net8.0\ex17.dll
+C:\Users\PC-2\source\repos\ex17\ex17\bin\Debug\net8.0\ex17.pdb
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.dll
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\refint\ex17.dll
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.pdb
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ex17.genruntimeconfig.cache
+C:\Users\PC-2\source\repos\ex17\ex17\obj\Debug\net8.0\ref\ex17.dll
