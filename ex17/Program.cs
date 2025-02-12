@@ -13,7 +13,7 @@
         
         for (int contador  = 0; contador < listadefilmes.Length ; contador++)
         {
-            Console.WriteLine(listadefilmes[contador] + " - " + anosdofilmes[contador]);
+            Console.WriteLine(&{listadefilmes[contador] + " - " + anosdofilmes[contador]) - (anosfilmes[contador])};
         
         }
 
