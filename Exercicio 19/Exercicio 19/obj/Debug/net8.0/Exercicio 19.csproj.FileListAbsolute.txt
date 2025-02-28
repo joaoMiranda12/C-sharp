@@ -1,0 +1,14 @@
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\bin\Debug\net8.0\Exercicio 19.exe
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\bin\Debug\net8.0\Exercicio 19.deps.json
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\bin\Debug\net8.0\Exercicio 19.runtimeconfig.json
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\bin\Debug\net8.0\Exercicio 19.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\bin\Debug\net8.0\Exercicio 19.pdb
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.AssemblyInfoInputs.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.AssemblyInfo.cs
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.csproj.CoreCompileInputs.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\refint\Exercicio 19.dll
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.pdb
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\Exercicio 19.genruntimeconfig.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\Exercicio 19\Exercicio 19\obj\Debug\net8.0\ref\Exercicio 19.dll
