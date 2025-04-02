@@ -1,0 +1,7 @@
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\obj\Debug\execercio21.csproj.AssemblyReference.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\obj\Debug\execercio21.csproj.CoreCompileInputs.cache
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\bin\Debug\execercio21.exe.config
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\bin\Debug\execercio21.exe
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\bin\Debug\execercio21.pdb
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\obj\Debug\execercio21.exe
+C:\Users\dominio 1\Desktop\Gabriel Vieira\execercio21\execercio21\obj\Debug\execercio21.pdb
